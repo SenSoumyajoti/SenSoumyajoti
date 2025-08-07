@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **soumya42sen@gmail.com**
 
+- <a href="https://portfolio-fl1j.onrender.com/">my portfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soumyajoti3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyajoti sen" height="30" width="40" /></a>
